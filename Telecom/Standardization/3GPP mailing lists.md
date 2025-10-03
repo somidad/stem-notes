@@ -4,6 +4,7 @@
 
 Some selected lists:
 
+- [TSG_CT](https://list.etsi.org/scripts/wa.exe?A0=3GPP_TSG_CT)
 - [TSG_RAN](https://list.etsi.org/scripts/wa.exe?A0=3GPP_TSG_RAN)
 - [TSG_RAN_WG1](https://list.etsi.org/scripts/wa.exe?A0=3GPP_TSG_RAN_WG1)
 - [TSG_RAN_WG2](https://list.etsi.org/scripts/wa.exe?A0=3GPP_TSG_RAN_WG2)
